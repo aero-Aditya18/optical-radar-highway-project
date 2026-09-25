@@ -1,5 +1,5 @@
 # optical-radar-highway-project
- Autonomous Optical & Radar Highway Safety Sentinel
+
 A Single problem solutions for alerting  the use of high beams which temporary blinds other drivers for highways and roads 
 
 ## Features
